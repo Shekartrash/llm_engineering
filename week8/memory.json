@@ -25,5 +25,23 @@
     },
     "estimate": 679.26025573519,
     "discount": 219.26025573518996
+  },
+  {
+    "deal": {
+      "product_description": "The Samsung Galaxy Z Flip3 is a sleek and compact smartphone that features a unique foldable design, allowing for easy portability without compromising on screen size. This model comes with 128GB of internal storage, perfect for storing apps, photos, and videos. With a stunning 6.7-inch Dynamic AMOLED display, it offers vibrant color and clarity. The phone is powered by a robust processor and offers features like dual rear cameras for high-quality photos and a long-lasting battery.",
+      "price": 176.0,
+      "url": "https://www.dealnews.com/products/Samsung/Samsung-Galaxy-Z-Flip3-128-GB-Phone/487038.html?iref=rss-c142"
+    },
+    "estimate": 614.6370956248256,
+    "discount": 438.63709562482563
+  },
+  {
+    "deal": {
+      "product_description": "The Eco-Worthy 12V 100AH LiFePO4 Lithium Battery is ideal for a range of applications, including RVs, boats, and solar energy storage. This robust battery is designed for durability and longevity, able to deliver up to 15,000 cycles. Its lightweight design makes installation easy, and the battery is capable of being connected in parallel or in series for greater capacity. It offers a reliable and efficient power solution, ensuring consistent performance for your needs.",
+      "price": 128.0,
+      "url": "https://www.dealnews.com/Eco-Worthy-12-V-100-AH-Li-Fe-PO4-Lithium-Battery-for-128-free-shipping/21717638.html?iref=rss-c142"
+    },
+    "estimate": 357.652232982872,
+    "discount": 229.65223298287202
   }
 ]
